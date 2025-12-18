@@ -1,0 +1,4 @@
+LIBRARY test.exe
+EXPORTS
+    MyPrintMessage
+    AddTwoNumbers
