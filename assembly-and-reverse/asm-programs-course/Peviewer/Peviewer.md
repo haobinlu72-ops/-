@@ -1,0 +1,1 @@
+读取PE文件的e_magic,e_lfanew,Signature等内容
